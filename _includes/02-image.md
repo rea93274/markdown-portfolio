@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Meme](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmemebase.cheezburger.com%2Ftag%2Fcoding&psig=AOvVaw3aty08rDjFWndis2YzbhCP&ust=1605659940901000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiri8ariO0CFQAAAAAdAAAAABAD)
